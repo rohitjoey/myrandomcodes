@@ -1,4 +1,4 @@
-# LIGHT
+# LIGHT SENSOR
 
 def light_period(light_readings):
     length=len(light_readings)
